@@ -1,11 +1,3 @@
-# 𝐃𝐞𝐯𝐢𝐥 𝐅𝐢𝐥𝐞𝐬 𝐒𝐭𝐨𝐫𝐞
-
-𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐁𝐨𝐭 𝐭𝐨 𝐬𝐭𝐨𝐫𝐞 𝐏𝐨𝐬𝐭𝐬 𝐚𝐧𝐝 𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐬 𝐚𝐧𝐝 𝐢𝐭 𝐜𝐚𝐧 𝐀𝐜𝐜𝐞𝐬𝐬 𝐛𝐲 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐋𝐢𝐧𝐤𝐬.
-𝐈 𝐆𝐮𝐞𝐬𝐬 𝐓𝐡𝐢𝐬 𝐖𝐢𝐥𝐥 𝐁𝐞 𝐔𝐬𝐞𝐟𝐮𝐥𝐥 𝐅𝐨𝐫 𝐌𝐚𝐧𝐲 𝐏𝐞𝐨𝐩𝐥𝐞.....😇.
-
-##
-
-**𝘐𝘧 𝘠𝘰𝘶 𝘕𝘦𝘦𝘥 𝘈𝘯𝘺 𝘔𝘰𝘳𝘦 𝘔𝘰𝘥𝘦𝘴 𝘪𝘯 𝘙𝘦𝘱𝘰 𝘖𝘳 𝘐𝘧 𝘠𝘰𝘶 𝘍𝘪𝘯𝘥 𝘖𝘶𝘵 𝘈𝘯𝘺 𝘉𝘶𝘨𝘴, 𝘔𝘦𝘯𝘵𝘪𝘰𝘯 𝘐𝘯 [@JaiHindChatting ](https://www.telegram.dog/JaiHindChatting)**
 
 ### Features
 - Fully customisable.
@@ -67,24 +59,10 @@
 * `{filename}` - Original Files Name
 * `{file_name}` - Original Caption
 
-## ✨ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐇𝐞𝐫𝐞 ✨
-
-### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
-- [🕊️⃝🇮🇳★𝐃𝐞𝐯𝐢𝐋😈𝐇𝐚𝐜𝐤𝐞𝐫★🇮🇳⃝🕊️](https://t.me/JaiHindChatting) 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
-
-### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🎑
-<a href="https://t.me/JaiHindChatting"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SonalModdingGod"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-
 
 CUSTOM_CAPTION
 ```
 <code>{file_name}</code>
-
-🔥💫  𝙁𝙞𝙧𝙨𝙩 𝙊𝙣 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢  🔥💫
-𝙍𝙚𝙦𝙪𝙚𝙨𝙩 𝙔𝙤𝙪𝙧 𝙈𝙤𝙫𝙞𝙚𝙨 𝙃𝙚𝙧𝙚 𝙖𝙣𝙙 𝙂𝙚𝙩 𝙄𝙣 1 𝙈𝙞𝙣𝙪𝙩𝙚 100℅👇
-https://t.me/SonalModdingGod
-यहां अपनी फिल्मों का अनुरोध करें और 1 मिनट में प्राप्त करें 100℅ 👇
-https://t.me/SonalModdingGod
 
 🤭 𝗔𝗟𝗟 𝗠𝗢𝗩𝗜𝗘𝗦 𝗛𝗘𝗥𝗘 🥱
 
