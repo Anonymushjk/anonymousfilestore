@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/rakeshyt/DevilFilesStore",
+  "repository": "https://github.com/Anonymushjk/anonymousfilestore",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
